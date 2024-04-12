@@ -1,3 +1,6 @@
+# This is a fork of the github.com/simonfrey/jsonl repository with the imports fixed!! 
+The original repository had this issue: https://github.com/simonfrey/jsonl/issues/2
+
 # JSON Lines (JSONL) golang library
 
 This library provides you with a Reader and a Writer for the JSONL format. It automatically flushes underlying 
